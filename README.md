@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   
 # 👋 Hi, I'm Sam!
 
@@ -26,7 +26,7 @@
 </div>
 
 ---
-<div align="center">
+<div align="left">
   
 ## 🔥 Favourite Repo
 
@@ -37,7 +37,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
   
 [![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
 [![GitHub Followers](https://img.shields.io/github/followers/s-Barrett?label=Follow&style=social)](https://github.com/s-Barrett)
