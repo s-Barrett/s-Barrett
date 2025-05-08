@@ -23,6 +23,7 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s-Barrett&show_icons=true&theme=dark&hide_border=true)](https://github.com/s-Barrett)
 
 <div align="right">
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=s-Barrett&theme=dark&hide_border=true)](https://github.com/s-Barrett)
 
 </div>
