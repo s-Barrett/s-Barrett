@@ -49,3 +49,4 @@ Built for OSINT and data collection workflows.
 
 Open to roles in **cyber security**, **defence software engineering**, and **secure systems development**.
 Reach me via [LinkedIn](https://linkedin.com) or open an issue on any repo.
+
